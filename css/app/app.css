@@ -1,14 +1,4 @@
 html, body {
-  /* Grandiente Azul 
-  
-  background: rgb(2,0,36);
-  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%, rgba(0,118,255,1) 100%);
-  */
-  /* Gradiente Cinza */
-  /*
-  background: rgb(0,0,0);
-  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(34,34,41,1) 31%, rgba(94,94,94,1) 60%, rgba(204,204,204,1) 85%, rgba(255,255,255,1) 100%);
-  */  
   background: #011802;
   margin: 0;
   height: 100%;
