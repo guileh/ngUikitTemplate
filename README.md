@@ -1,2 +1,2 @@
-# ngUikitTemplate
-Mobile HTML5 Template for AngularJS with Uikit 3
+# Angular and UIKit Template for mobile app
+Mobile HTML5 Template made with AngularJS and Uikit 3
